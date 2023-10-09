@@ -3,7 +3,6 @@
 #include<fstream>
 #include"nlohmann/json.hpp"
 
-
 int main(){
     nlohmann::json film = {
         {"film name", "White Tiger (2012 film)"},
